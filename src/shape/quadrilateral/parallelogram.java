@@ -2,7 +2,7 @@ package shape.quadrilateral;
 
 public class parallelogram extends quadrilateral{
     public parallelogram(int a, int b, int c, int d){
-        super();
+        super(a,b,c,d);
     }
 
     @Override
