@@ -1,4 +1,4 @@
 package shape;
 
-public class pentagon {
+public class pentagon extends shape{
 }

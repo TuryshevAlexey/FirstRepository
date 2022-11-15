@@ -1,4 +1,4 @@
 package shape;
 
-public class hexagon {
+public class hexagon extends shape {
 }

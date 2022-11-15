@@ -1,4 +1,4 @@
 package shape;
 
-public class round {
+public class round extends shape{
 }

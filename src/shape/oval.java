@@ -1,4 +1,4 @@
 package shape;
 
-public class oval {
+public class oval extends shape{
 }

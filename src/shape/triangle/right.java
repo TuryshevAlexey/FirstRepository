@@ -1,4 +1,4 @@
 package shape.triangle;
 
-public class right {
+public class right extends triangle{
 }

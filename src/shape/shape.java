@@ -1,4 +1,4 @@
 package shape;
 
-public class shape {
+public class shape{
 }

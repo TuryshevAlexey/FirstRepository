@@ -1,4 +1,4 @@
 package shape.triangle;
 
-public class isosceles {
+public class isosceles extends triangle{
 }

@@ -1,4 +1,4 @@
 package shape.triangle;
 
-public class equilateral {
+public class equilateral extends triangle{
 }
